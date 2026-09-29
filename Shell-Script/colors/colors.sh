@@ -8,7 +8,7 @@
 # Dependências: bash, sed, tput (ncurses-bin)
 # Recursos: cores (@red @green @yellow @blue @magenta @cyan @white),
 #           negrito (@b), sublinhado (@u) e reset (@reset)
-# Exemplo: colorir "@red@b[[Texto em vermelho e negrito]] normal"
+# Exemplo: colors "@red@b[[Texto em vermelho e negrito]] normal"
 #---------------------------------------------------------------#
 #####################################################################
 
